@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /run/media/jflabonte/905d7ec3-b50b-48af-a4d6-246355f365b0/Yocto/poky/build/tmp
+SSTATE_DIR /run/media/jflabonte/905d7ec3-b50b-48af-a4d6-246355f365b0/Yocto/poky/build/sstate-cache
+NATIVELSBSTRING fedora-31
